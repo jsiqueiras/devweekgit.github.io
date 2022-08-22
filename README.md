@@ -1,2 +1,3 @@
-# devweekgit.github.io
-Currículo do Jornada Dev
+Aplicando conceitos sobre HTML, CSS, GIT e GITHUB.
+
+Desafio: Currículo do Jornada Dev
